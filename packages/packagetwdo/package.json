@@ -1,0 +1,19 @@
+{
+  "name": "@mylerna/packagetwo",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Hao.liu8 <hao.liu8@geely.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/packagetwdo.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
