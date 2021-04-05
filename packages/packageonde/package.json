@@ -1,6 +1,6 @@
 {
   "name": "@mylerna/packageone",
-  "version": "0.0.8-alpha.0",
+  "version": "0.0.9-alpha.0",
   "description": "> TODO: description",
   "author": "Hao.liu8 <hao.liu8@geely.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "4337ae77e55c3a978f677f10805692d939b54526"
+  "gitHead": "06140ef936a059b2cea0bcbe5468048f59dc548b"
 }
